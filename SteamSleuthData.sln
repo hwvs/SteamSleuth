@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamSleuthData", "SteamSleuthData\SteamSleuthData.csproj", "{7F7E1F7F-9C45-4374-87F2-43A0317ED9AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamSleuthScraper", "SteamSleuthScraper\SteamSleuthScraper.csproj", "{24B7EE72-9580-41F3-A60D-55A71DAAF123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F7E1F7F-9C45-4374-87F2-43A0317ED9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7E1F7F-9C45-4374-87F2-43A0317ED9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7E1F7F-9C45-4374-87F2-43A0317ED9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7E1F7F-9C45-4374-87F2-43A0317ED9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B7EE72-9580-41F3-A60D-55A71DAAF123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B7EE72-9580-41F3-A60D-55A71DAAF123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B7EE72-9580-41F3-A60D-55A71DAAF123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B7EE72-9580-41F3-A60D-55A71DAAF123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
